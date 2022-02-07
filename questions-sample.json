@@ -1,0 +1,62 @@
+{
+    "questions":[
+        {
+            "id": "0001",
+            "question": "Who was the mother of Elizabeth I?",
+            "answers": [
+                { 
+                    "option": "Jane Seymour",
+                    "correct": false
+                },   
+                { 
+                    "option": "Anne of Cleves",
+                    "correct": false
+                },   
+                { 
+                    "option": "Catherine of Aragon",
+                    "correct": false
+                },   
+                { 
+                    "option": "Anne Boleyn",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "0002",
+            "question": "Which TWO of the following social laws were liberalised during the 'Swinging Sixties'?",
+            "answers": [
+                { 
+                    "option": "The law of abortion",
+                    "correct": true
+                },   
+                { 
+                    "option": "The law of divorce",
+                    "correct": true
+                },   
+                { 
+                    "option": "The law of immigration",
+                    "correct": false
+                },   
+                { 
+                    "option": "The law of adoption",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "0002",
+            "question": "The Welsh dragon on the Welsh flag does not appear on the Union Flag because, when the first Union Flag was created in 1606 from the flags of Scotland and England, the Principality of Wales was already untied with England:",
+            "answers": [
+                { 
+                    "option": "True",
+                    "correct": true
+                },   
+                { 
+                    "option": "False",
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}
